@@ -1,0 +1,21 @@
+.inputBox{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+    text-align: center; 
+    margin-left: 37%;
+}
+
+.login{
+    margin-top: 150px;
+}
+.btn{
+    height: 30px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: rgb(91, 194, 235);
+    border: 1px solid rgb(11, 150, 206);
+}

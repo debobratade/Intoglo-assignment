@@ -1,0 +1,25 @@
+
+.mainBox{
+   margin-top: 50px;
+    flex-wrap: wrap;
+    box-shadow: 5px 5px 10px #ccc;
+    text-align: center;
+    background-color: #FFFFFF;
+    height: 100%;
+    width: 40%;
+    margin-left: 400px;
+   
+
+}
+
+.in{
+    
+        display: block;
+        margin: 25px;
+        padding: 7px;
+        width: 300px;
+        border: 2px solid skyblue;
+        text-align: center; 
+      margin-left: 80px;
+    
+}

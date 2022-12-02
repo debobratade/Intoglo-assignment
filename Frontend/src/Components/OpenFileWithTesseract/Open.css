@@ -1,0 +1,17 @@
+
+.searchbar{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.form-control{
+    width: 400px;
+    height: 300px;
+    margin: 20px;
+    border-color: transparent;
+    box-shadow: 5px 5px 10px #ccc;
+    padding-left: 20px;
+    margin-top: 0px;
+    font-size: 15px;
+    
+}
